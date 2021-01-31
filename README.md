@@ -1,2 +1,3 @@
 # hello-world
-My first day with github
+Hi world!
+I'm trying to learn to use branches and commits.
